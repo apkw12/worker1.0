@@ -1,5 +1,5 @@
 import { AMKOverWSHandler } from "./AMK"
-import { TrojanOverWSHandler } from "./ELE"
+import { ELEOverWSHandler } from "./ELE"
 import { GetPanel, PostPanel } from "./panel"
 import { GetLogin, PostLogin } from "./auth"
 import { GetConfigList } from "./collector"

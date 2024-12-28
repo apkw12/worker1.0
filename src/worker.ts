@@ -1,4 +1,4 @@
-import { AMKOverWSHandler } from "./amk"
+import { AMKOverWSHandler } from "./AMK"
 import { TrojanOverWSHandler } from "./ELE"
 import { GetPanel, PostPanel } from "./panel"
 import { GetLogin, PostLogin } from "./auth"

@@ -1,6 +1,6 @@
 export const version: string = "1.0"
 export const providersUri: string = "https://raw.githubusercontent.com/apkw12/worker1.0/refs/heads/main/resources/provider-list.txt"
-export const proxiesUri: string = "https://raw.githubusercontent.com/apkw12/worker1.0/refs/heads/main/resources/proxy-list.txt
+export const proxiesUri: string = "https://raw.githubusercontent.com/apkw12/worker1.0/refs/heads/main/resources/proxy-list.txt"
 
 export const defaultProtocols: Array<string> = [
   "vmess",
